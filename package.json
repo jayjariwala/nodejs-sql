@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayjariwala/nodejs-sql.git"
+  },
+  "author": "Jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayjariwala/nodejs-sql/issues"
+  },
+  "homepage": "https://github.com/jayjariwala/nodejs-sql#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  },
+  "dependencies": {
+    "mysql": "^2.11.1"
+  }
+}
